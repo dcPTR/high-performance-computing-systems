@@ -15,7 +15,7 @@ Compile the program with the MPI library using `make`. Then, run the executable 
 
 ```bash
 make
-make run 100 1"
+make run 100 1
 ```
 
 Where `100` is the limit, and `1` is a marker.
